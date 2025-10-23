@@ -71,10 +71,10 @@
 > ```
 ```
 {
-  "TRAIN_NO": "12318",
+  "TRAIN_NO": "12245",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "12/09/2023",
-  "SOURCE_STATION": "UMB",
+  "TRAVEL_DATE": "23/10/2025",
+  "SOURCE_STATION": "HWH",
   "BOARDING_STATION": null, <-- Change to full station name if required, else leave null
   "DESTINATION_STATION": "BSB",
   "TATKAL": true,
